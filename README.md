@@ -1,8 +1,8 @@
 # HCL Fusion
 
-The program fuses a visible light picture and a thermal camera image
-into a single image that retains both high resolution detail of
-the visible image and color-coded temperature information from the thermal image.
+The program fuses a visible-light picture and a an image from a thermal camera 
+into a single composite image that retains both high resolution detail of
+the visible image and color-coded thermal information.
 
 ### Algorithm
 
@@ -13,7 +13,7 @@ The visual image, converted to gray scale, is used as Luminance, and
 Hue is computed from the thermal data.
 
 ### Example
-![Screenshot](Bmp/visible.bmp)
+![Visible Image](Bmp/visible.png)
 Visible image
 
 ![Screenshot](Bmp/thermal.bmp)
