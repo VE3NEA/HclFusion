@@ -17,10 +17,12 @@ Hue is computed from the thermal data.
 
 Visible image
 
+
 ![Thermal image](Bmp/thermal.bmp)
 
 Thermal image
 
+
 ![Composite image](Bmp/composite.bmp)
 
-Composite image.
+Composite image
