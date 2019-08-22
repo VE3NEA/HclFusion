@@ -14,10 +14,13 @@ Hue is computed from the thermal data.
 
 ### Example
 ![Visible Image](Bmp/visible.png)
+
 Visible image
 
-![Screenshot](Bmp/thermal.bmp)
+![Thermal image](Bmp/thermal.bmp)
+
 Thermal image
 
-![Screenshot](Bmp/composite.bmp)
+![Composite image](Bmp/composite.bmp)
+
 Composite image.
